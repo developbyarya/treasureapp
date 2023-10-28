@@ -97,7 +97,7 @@ The "Trea.sure - manage your assets" app aims to revolutionize treasury manageme
 
 ## Development Timeline
 
-### [Phase 1: Project Initiation (1 week)][Initiation.md]
+###[Phase 1: Project Initiation (1 week)](Initiation.md)
 
 - **Week 1: Initiation**
   - Define project scope, objectives, and deliverables.
